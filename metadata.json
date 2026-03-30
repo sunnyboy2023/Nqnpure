@@ -1,0 +1,7 @@
+{
+  "name": "Sudoku Lens & Play",
+  "description": "Upload a Sudoku puzzle photo, extract the board, and solve it with notes and interactive input.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
